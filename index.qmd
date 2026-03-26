@@ -1,10 +1,12 @@
 ---
-title: "FIN 533 - Algorithmic Trading"
+title: "Jason Huang"
 ---
+
+![My Photo](image.jpg)
 
 ## Welcome
 
-This is my FIN 533 project website for Design and Testing of Algorithmic Trading Systems with Python.
+Hi, I'm Jason Huang. This is my FIN 533 project website for Design and Testing of Algorithmic Trading Systems with Python.
 
 ## About This Course
 
