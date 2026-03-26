@@ -1,5 +1,5 @@
 ---
-title: "Jason Huang"
+title: "About"
 ---
 
 ![My Photo](image.jpg)
