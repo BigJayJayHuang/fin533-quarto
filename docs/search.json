@@ -4,14 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My Photo"
+    "text": "Jason Huang — Duke University, FIN 533 Spring 2026."
   },
   {
-    "objectID": "about.html#welcome",
-    "href": "about.html#welcome",
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
     "title": "About",
-    "section": "Welcome",
-    "text": "Welcome\nHi, I’m Jason Huang. This is my FIN 533 project website."
+    "section": "",
+    "text": "Jason Huang — Duke University, FIN 533 Spring 2026."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out via GitHub."
   },
   {
     "objectID": "index.html",
@@ -33,5 +40,12 @@
     "title": "Jason Huang",
     "section": "About This Course",
     "text": "About This Course\nThis course is centered around a final project, completed in teams, hosted on the Fintech 533 site."
+  },
+  {
+    "objectID": "index.html#what-were-building",
+    "href": "index.html#what-were-building",
+    "title": "Jason Huang",
+    "section": "What We’re Building",
+    "text": "What We’re Building\nWe are designing and testing algorithmic trading systems using Python, covering strategies such as pairs trading, momentum, and signal filtering."
   }
 ]

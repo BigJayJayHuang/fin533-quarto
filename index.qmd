@@ -11,3 +11,7 @@ Hi, I'm Jason Huang. This is my FIN 533 project website for Design and Testing o
 ## About This Course
 
 This course is centered around a final project, completed in teams, hosted on the [Fintech 533 site](https://fintech533.com/).
+
+## What We're Building
+
+We are designing and testing algorithmic trading systems using Python, covering strategies such as pairs trading, momentum, and signal filtering.

@@ -2,8 +2,10 @@
 title: "About"
 ---
 
-![My Photo](image.jpg)
+## About Me
 
-## Welcome
+Jason Huang — Duke University, FIN 533 Spring 2026.
 
-Hi, I'm Jason Huang. This is my FIN 533 project website.
+## Contact
+
+Feel free to reach out via [GitHub](https://github.com/BigJayJayHuang).
