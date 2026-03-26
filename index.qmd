@@ -1,0 +1,11 @@
+---
+title: "FIN 533 - Algorithmic Trading"
+---
+
+## Welcome
+
+This is my FIN 533 project website for Design and Testing of Algorithmic Trading Systems with Python.
+
+## About This Course
+
+This course is centered around a final project, completed in teams, hosted on the [Fintech 533 site](https://fintech533.com/).
